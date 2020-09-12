@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
-# Thanks to use answer to use pdfcrop instead of gs to get the correct
-# bounding box 
+# Thanks to use answer (Method B) to use pdfcrop instead of gs to get the 
+# correct bounding box 
 # https://tex.stackexchange.com/a/171460/182471
 
 use warnings ;
